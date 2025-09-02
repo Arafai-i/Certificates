@@ -17,7 +17,7 @@ Each certificate includes a short note about **skills learned**.
 
 - [Blue Team Labs Certificate](BlueTeamLabs.png)  
   *Skills learned: SOC analysis, log review, threat detection*
-- Forage (forage_completion_certificate.pdf)
+- [Forage](forage_completion_certificate.pdf)
   *Skills learned:log review, threat detection*
   
 - CompTIA Security+ (In Progress)
